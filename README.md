@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Working as a Developer on:
+- revbid.net: A Self-Serve Header-Bidding Network that let's you easily plug into Prebid
+- revantage.io: A Self-Serve SSP that connects you with the Top DSPs
+- revideo (in Progress): A Self-Serve Video Monetization Solution to deliver the best Video Ads via Bidding
+- rescan (in Progress): An IVT Tool to help you block Bad Users from seeing (or abusing) your Ads
+
+Use bern@revbid.net to contact me!
